@@ -2,7 +2,7 @@
 ```
 
 ---------------------------------------------------------------------------------------------
-					 old process                         new process
+                     old process                         new process
 send upgrade signal ---> |                                    |
 			 |    ----------- fork ----------->   |
 			 |                                    | start listen and init finish
